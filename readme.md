@@ -15,3 +15,6 @@ loan_percent_income: What percentage of the applicant's income will go to loan p
 cb_person_default_on_file: Shows if the applicant has ever failed to pay back a loan.
 cb_person_cred_hist_length: How long the applicant has had a credit history
 loan_status: Shows if the loan is approved or rejected
+
+
+domingo: shap values, eda prolijidad, evaluacion de modelos, terminar notebooks, terminar ppt
