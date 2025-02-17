@@ -19,4 +19,4 @@ loan_status: Shows if the loan is approved or rejected
 
 ### Orden de corrida:
 Primero correr EDA_features.ipynb para realizar el EDA y feature engineering
-Luego, correr cualquier modelo para entrenarlo y generar predicciones. (Modelo de mejor rendimiento y usado para el final, LightGBM)
+Luego, correr cualquier modelo para entrenarlo y generar predicciones. (Modelo de mejor rendimiento y usado para el final, LightGBM).
